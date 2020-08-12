@@ -17,7 +17,7 @@ const IndexPage = () => (
         <li>Eslint</li>
         <li>Prettier</li>
         <li>Stylelint</li>
-        <li>Tailwind CSS</li>
+        <li>Tailwind CSS (and twin.macro)</li>
         <li>PostCSS</li>
         <li>TypeScript</li>
         <li>Styled Components</li>

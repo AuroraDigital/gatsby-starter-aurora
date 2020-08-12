@@ -14,7 +14,7 @@ Kick off your project with this hello-world boilerplate. This starter ships with
 Contains
 </h2>
 <ul>
-  <li>Tailwind CSS</li>
+  <li>Tailwind CSS and (twin.macro)</li>
   <li>PostCSS</li>
   <li>TypeScript</li>
   <li>Styled Components</li>
