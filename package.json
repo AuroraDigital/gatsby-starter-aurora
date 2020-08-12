@@ -1,0 +1,56 @@
+{
+  "name": "gatsby-starter-aurora",
+  "private": true,
+  "description": "A simplified bare-bones starter for Gatsby",
+  "version": "0.1.0",
+  "license": "MIT",
+  "scripts": {
+    "build": "gatsby build",
+    "develop": "gatsby develop",
+    "format": "prettier --write \"**/*.{js,jsx,ts,tsx,json,md}\"",
+    "start": "npm run develop",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean",
+    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
+  },
+  "dependencies": {
+    "babel-plugin-styled-components": "^1.11.1",
+    "gatsby": "^2.24.43",
+    "gatsby-plugin-postcss": "^2.3.11",
+    "gatsby-plugin-react-helmet": "^3.3.10",
+    "gatsby-plugin-styled-components": "^3.3.10",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "react-helmet": "^6.1.0",
+    "styled-components": "^5.1.1"
+  },
+  "devDependencies": {
+    "@auroradigital/prettier-config": "^1.0.1",
+    "@types/react-helmet": "^6.1.0",
+    "@types/styled-components": "^5.1.2",
+    "eslint-config-aurora": "^1.0.1",
+    "husky": "^4.2.5",
+    "lint-staged": "^10.2.11",
+    "prettier": "2.0.5",
+    "standardx": "^5.0.0",
+    "stylelint": "^13.6.1",
+    "stylelint-config-aurora": "^1.0.5",
+    "tailwindcss": "^1.6.2",
+    "twin.macro": "^1.7.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AuroraDigital/gatsby-starter-aurora"
+  },
+  "bugs": {
+    "url": "https://github.com/AuroraDigital/gatsby-starter-aurora/issues"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged"
+    }
+  },
+  "lint-staged": {
+    "*.{js,jsx,json,md}": "prettier --write"
+  }
+}
