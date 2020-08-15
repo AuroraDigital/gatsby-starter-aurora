@@ -18,6 +18,7 @@ Contains
   <li>PostCSS</li>
   <li>TypeScript</li>
   <li>Styled Components</li>
+  <li>Storybook</li>
   <li>React Helmet</li>
   <li>ESLint w/ AURORA eslint-config-aurora</li>
   <li>Prettier w/ auto-formatting on save</li>

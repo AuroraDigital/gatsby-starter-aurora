@@ -19,6 +19,7 @@ const IndexPage = () => (
         <li>Stylelint</li>
         <li>Tailwind CSS (and twin.macro)</li>
         <li>PostCSS</li>
+        <li>Storybook</li>
         <li>TypeScript</li>
         <li>Styled Components</li>
       </List>
