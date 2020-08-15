@@ -36,7 +36,8 @@
     "stylelint": "^13.6.1",
     "stylelint-config-aurora": "^1.0.5",
     "tailwindcss": "^1.6.2",
-    "twin.macro": "^1.7.0"
+    "twin.macro": "^1.7.0",
+    "typescript": "^3.9.7"
   },
   "repository": {
     "type": "git",
