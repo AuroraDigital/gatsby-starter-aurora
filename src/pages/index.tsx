@@ -23,6 +23,7 @@ const IndexPage = () => (
         <li>TypeScript</li>
         <li>Styled Components</li>
         <li>Google Analytics Plugin</li>
+        <li>gatsby-plugin-sitemap</li>
       </List>
     </div>
   </Container>

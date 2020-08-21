@@ -24,6 +24,7 @@ Contains
   <li>Prettier w/ auto-formatting on save</li>
   <li>Stylelint</li>
   <li>Google Analytics Plugin</li>
+  <li>gatsby-plugin-sitemap</li>
 </ul>
 
 Topics
