@@ -23,6 +23,7 @@ Contains
   <li>ESLint w/ AURORA eslint-config-aurora</li>
   <li>Prettier w/ auto-formatting on save</li>
   <li>Stylelint</li>
+  <li>Google Analytics Plugin</li>
 </ul>
 
 Topics

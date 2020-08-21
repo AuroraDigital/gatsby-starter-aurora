@@ -22,6 +22,7 @@ const IndexPage = () => (
         <li>Storybook</li>
         <li>TypeScript</li>
         <li>Styled Components</li>
+        <li>Google Analytics Plugin</li>
       </List>
     </div>
   </Container>

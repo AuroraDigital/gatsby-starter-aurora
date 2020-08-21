@@ -9,5 +9,12 @@ module.exports = {
     'gatsby-plugin-styled-components',
     'gatsby-plugin-react-helmet',
     'gatsby-plugin-postcss',
+    {
+      resolve: 'gatsby-plugin-google-analytics',
+      options: {
+        // replace "UA-XXXXXXXXX-X" with your own Tracking ID
+        trackingId: 'UA-XXXXXXXXX-X',
+      },
+    },
   ],
 }
