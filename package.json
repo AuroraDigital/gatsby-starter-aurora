@@ -21,6 +21,7 @@
     "gatsby-plugin-google-gtag": "^2.1.13",
     "gatsby-plugin-postcss": "^3.0.3",
     "gatsby-plugin-react-helmet": "^3.3.10",
+    "gatsby-plugin-sentry": "^1.0.1",
     "gatsby-plugin-sitemap": "^2.4.11",
     "gatsby-plugin-styled-components": "^3.3.10",
     "react": "^17.0.0",
