@@ -25,6 +25,7 @@ Contains
   <li>Stylelint</li>
   <li>Google Analytics Plugin</li>
   <li>gatsby-plugin-sitemap</li>
+  <li>Sentry</li>
 </ul>
 
 Topics

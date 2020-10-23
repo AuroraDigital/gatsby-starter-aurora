@@ -24,6 +24,7 @@ const IndexPage = () => (
         <li>Styled Components</li>
         <li>Google Analytics Plugin</li>
         <li>gatsby-plugin-sitemap</li>
+        <li>Sentry</li>
       </List>
     </div>
   </Container>
