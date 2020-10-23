@@ -17,13 +17,9 @@ module.exports = {
       },
     },
     {
-      resolve: 'gatsby-plugin-sentry',
+      resolve: '@sentry/gatsby',
       options: {
         dsn: 'YOUR_SENTRY_DSN_URL',
-        // Optional settings, see https://docs.sentry.io/clients/node/config/#optional-settings
-        environment: process.env.NODE_ENV,
-        enabled: (() =>
-          ['production', 'stage'].indexOf(process.env.NODE_ENV) !== -1)(),
       },
     },
   ],
