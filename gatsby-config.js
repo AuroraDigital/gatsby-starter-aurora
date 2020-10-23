@@ -11,10 +11,9 @@ module.exports = {
     'gatsby-plugin-postcss',
     'gatsby-plugin-sitemap',
     {
-      resolve: 'gatsby-plugin-google-analytics',
+      resolve: 'gatsby-plugin-google-gtag',
       options: {
-        // replace "UA-XXXXXXXXX-X" with your own Tracking ID
-        trackingId: 'UA-XXXXXXXXX-X',
+        trackingIds: [],
       },
     },
   ],
